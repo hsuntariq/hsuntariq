@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nextjs, threejs**
 
-- 👨‍💻 All of my projects are available at [hassansteck.netlify.app](hassansteck.netlify.app)
+- 👨‍💻 Visit my portfolio at [hassanstech.netlify.app](hassansteck.netlify.app)
 
 - 💬 Ask me about **React, Nodejs, Expressjs, PHP, Laravel, AJAX, bootstrap, tailwind,**
 
